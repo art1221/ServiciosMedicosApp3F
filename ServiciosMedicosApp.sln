@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosMedicosApp", "ServiciosMedicosApp.csproj", "{795C7C28-F279-4893-8847-E4045CEF653B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosMedicosLib", "..\ServiciosMedicosLib\ServiciosMedicosLib.csproj", "{40B45884-EFCC-4F8A-8E79-748B7FF120BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795C7C28-F279-4893-8847-E4045CEF653B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795C7C28-F279-4893-8847-E4045CEF653B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795C7C28-F279-4893-8847-E4045CEF653B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795C7C28-F279-4893-8847-E4045CEF653B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B45884-EFCC-4F8A-8E79-748B7FF120BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B45884-EFCC-4F8A-8E79-748B7FF120BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B45884-EFCC-4F8A-8E79-748B7FF120BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B45884-EFCC-4F8A-8E79-748B7FF120BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF185F40-5C67-41AD-A71C-4E28A481DF62}
+	EndGlobalSection
+EndGlobal
