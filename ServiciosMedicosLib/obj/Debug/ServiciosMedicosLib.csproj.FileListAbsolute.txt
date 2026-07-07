@@ -1,0 +1,6 @@
+C:\POO\Ejercicios\ServiciosMedicosLib\bin\Debug\ServiciosMedicosLib.dll
+C:\POO\Ejercicios\ServiciosMedicosLib\bin\Debug\ServiciosMedicosLib.pdb
+C:\POO\Ejercicios\ServiciosMedicosLib\obj\Debug\ServiciosMedicosLib.csproj.AssemblyReference.cache
+C:\POO\Ejercicios\ServiciosMedicosLib\obj\Debug\ServiciosMedicosLib.csproj.CoreCompileInputs.cache
+C:\POO\Ejercicios\ServiciosMedicosLib\obj\Debug\ServiciosMedicosLib.dll
+C:\POO\Ejercicios\ServiciosMedicosLib\obj\Debug\ServiciosMedicosLib.pdb
