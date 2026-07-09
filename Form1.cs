@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ServiciosMedicosLib;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,11 +11,18 @@ using System.Windows.Forms;
 
 namespace ServiciosMedicosApp
 {
-    public partial class Form1 : Form
+    public partial class frmPrincipal : Form
     {
-        public Form1()
+        private Usuario usuarioActual;
+        public frmPrincipal(ServiciosMedicosLib.Usuario user)
         {
             InitializeComponent();
+            usuarioActual = user;
+        }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
+            lblBienvenida.Text = $"Bienvenido: {usuarioActual.Nombreusuario} ({usuarioActual.Rol})";
         }
     }
 }
